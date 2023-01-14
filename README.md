@@ -23,3 +23,20 @@ estos archivos son para el caso de que uno empiece un archivo de cero sin usar v
 ## Contenido:
 imitar esta imagen pero en react
 <img src="./ConsignaParaElEjercicio.png">
+
+Letra:
+- Calibri
+
+colores: 
+- fondo: #FFAEC9
+- cursos ada: #D490A7
+- recuadro de la foto del animal: #FFC90E
+- Curso React: #3F48CC
+
+fondo verde:
+- fondo verde #B5E61D
+- texto: #000000
+- <div> #BCC9C3
+- <h3>#A34990
+- <p> #ED1C24
+
